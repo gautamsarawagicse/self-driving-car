@@ -1,7 +1,7 @@
 
 # Self-Driving Car Algorithm Using NeatJS
 
-This repository contains a self-driving car algorithm implemented using the NeatJS library, developed as part of the Robot Motion Planning course. The algorithm is designed to control an autonomous vehicle's navigation and decision-making processes.
+This repository contains a self-driving car algorithm implemented using the NeatJS library, developed as part of the **Robot Motion Planning course**. The algorithm is designed to control an autonomous vehicle's navigation and decision-making processes.
 
 ## Prerequisites
 
